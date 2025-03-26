@@ -1,10 +1,10 @@
 title: "SCP:IC Wiki"
 author: "Lappland"
-avatar: "./IC.png"
+avatar: "/SCP-IC/IC.png"
 round-avatar: true
 title-on-all-pages: true
 icon: BETA_WIKI.png
-favicon: "./IC.png"
+favicon: "/SCP-IC/IC.png"
 post_search: true
 edit_page_button: true
 description: "Intelligent Cat SCP Wiki"
