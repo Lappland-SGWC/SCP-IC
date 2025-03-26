@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: " en-US" }}">
+
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    {% include head-custom.html %}
+    <link rel="icon" href="./IC.png" type="image/png">
+    <meta name="description" content="The official wiki of our Intelligent Cat server SCP's.">
+    <title id="page-title">SCP:IC WIKI</title>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const titleElement = document.getElementById('page-title');
+            const path = window.location.pathname;
+            const pageName = path.substring(path.lastIndexOf('/') + 1).replace('.html', '');
+
+
+            let title;
+            switch (pageName) {
+                case 'index':
+                    title = 'Main Page | SCP:IC WIKI';
+                    break;
+                case '':
+                    title = 'Main Page | SCP:IC WIKI';
+                    break;
+                case 'tree':
+                    title = 'All Entries | SCP:IC WIKI';
+                    break;
+                case '1025':
+                    title = 'SCP-1025';
+                    break;
+                case 'test':
+                    title = 'DEBUG | SCP:IC WIKI';
+                    break;
+                default:
+                    title = 'Uhhh | SCP:IC BETA WIKI';
+                    break;
+            }
+
+            titleElement.textContent = title;
+            document.title = title;
+        });
+    </script>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+        }
+
+        main {
+            display: flex;
+            flex: 1;
+            overflow: hidden;
+        }
+
+        #main_content {
+            flex: 1;
+            overflow-y: auto;
+        }
+
+        header {
+            width: 100%;
+            flex-shrink: 0;
+        }
+
+        #main_content {
+            flex: 1;
+            overflow-y: auto;
+            height: 100%;
+        }
+    </style>
+    </style>
+</head>
+
+{% seo %}
+
+</head>
+<header align="center">
+    <div class="container">
+        <a id="a-title" href="{{ '/' | relative_url }}">
+            <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        </a>
+        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+
+        <section id="downloads">
+            {% if site.show_downloads %}
+            <a href="{{ site.github.zip_url }}" class="btn">Download as .zip</a>
+            <a href="{{ site.github.tar_url }}" class="btn">Download as .tar.gz</a>
+            {% endif %}
+        </section>
+    </div>
+</header>
+<main>
+    <div class="container">
+        <section id="main_content">
+            {{ content }}
+        </section>
+    </div>
+</main>
+<footer>
+    <p>&copy; 2025 Intelligent Cat</p>
+</footer>
+
+</html>
