@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <body>
     <h1>SCP:IC List</h1>
