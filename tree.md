@@ -12,7 +12,7 @@
             <tr>
                 <td><a href="./SCP/9042" style="color:white">SCP-9042-IC</a></td>
                 <td><span style="color:green">Safe</span></td>
-                <td>██████████</td>
+                <td>Non-Standard Spacetime; Sentient</td>
                 <td><img src="https://img.shields.io/badge/SCP-IC-000000?style=for-the-badge&labelColor=000000&color=ffffff" title="SCP-IC" alt="SCP-IC" width="150"/></td>
             </tr>
             <tr>
