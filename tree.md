@@ -10,26 +10,26 @@
                 <th>IMAGE</th>
             </tr>
             <tr>
-                <td>SCP-9042-IC</td>
-                <td>Safe</td>
+                <td><a href="./scp/SCP-9042-IC" style="color:white">SCP-9042-IC</a></td>
+                <td><span style="color:green">Safe</span></td>
                 <td>██████████</td>
                 <td><img src="https://img.shields.io/badge/SCP-IC-000000?style=for-the-badge&labelColor=000000&color=ffffff" title="SCP-IC" alt="SCP-IC" width="150"/></td>
             </tr>
             <tr>
-                <td>SCP-9234-IC</td>
-                <td>Keter</td>
+                <td><a href="./scp/SCP-9234-IC" style="color:white">SCP-9234-IC</a></td>
+                <td><span style="color:red">Keter</span></td>
+                <td>Non-Standard Spacetime; Sentient & Violent</td>
+                <td><img src="https://img.shields.io/badge/SCP-IC-000000?style=for-the-badge&labelColor=000000&color=ffffff" title="SCP-IC" alt="SCP-IC" width="150"/></td>
+            </tr>
+            <tr>
+                <td><a href="./scp/SCP-9473-IC" style="color:white">SCP-9473-IC</a></td>
+                <td><span style="color:purple">Apollyon</span></td>
                 <td>██████████</td>
                 <td><img src="https://img.shields.io/badge/SCP-IC-000000?style=for-the-badge&labelColor=000000&color=ffffff" title="SCP-IC" alt="SCP-IC" width="150"/></td>
             </tr>
             <tr>
-                <td>SCP-9473-IC</td>
-                <td>Apollyon</td>
-                <td>██████████</td>
-                <td><img src="https://img.shields.io/badge/SCP-IC-000000?style=for-the-badge&labelColor=000000&color=ffffff" title="SCP-IC" alt="SCP-IC" width="150"/></td>
-            </tr>
-            <tr>
-                <td>SCP-9578-IC</td>
-                <td>Apollyon; Thaumiel</td>
+                <td><a href="./scp/SCP-9578-IC" style="color:white">SCP-9578-IC</a></td>
+                <td><span style="color:purple">Apollyon</span>; <span style="color:blue">Thaumiel</span></td>
                 <td>██████████</td>
                 <td><img src="https://img.shields.io/badge/SCP-IC-000000?style=for-the-badge&labelColor=000000&color=ffffff" title="SCP-IC" alt="SCP-IC" width="150"/></td>
             </tr>

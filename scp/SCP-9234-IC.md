@@ -1,26 +1,38 @@
-
 <strong><u>Item #:</u></strong> SCP-9234-IC
 
-<strong><u>Object Class:</u></strong> Apollyon
+<strong><u>Object Class:</u></strong> Keter
 
-<strong><u>Special Containment Procedures:</u></strong>\
-Because of SCP-9234-IC's abilities, a grid of SRA has been installed in the inhabitat area of SCP-9234-IC.
-SCP-9234-IC has to be summoned at least twice a week.
+<strong><u>Special Containment Procedures:</u></strong>
+SCP-9234-IC must be contained within Area-██.
+Due to the anomalous capabilities of SCP-9234-IC, a network of SRA's has been installed throughout Area-██.
+SCP-9234-IC must be summoned at least three times per week.
+Mobile Task Force Delta-7 "Shadow Hunters" is responsible for the containment of SCP-9234-IC when it cannot be located within Area-██.
+Localization procedures are to be performed twice hourly using the █████ protocol.
+All further interactions must be pre-approved by the O5 Council.
 
-<strong><u>Description:</u></strong>\
-SCP-9234-IC is an entiety that is 200 cm in height. SCP-9234-IC's appearance is Humanoid in appearance and Is completely dark exept for 2 white glowing eyes.
+<strong><u>Description:</u></strong>
+SCP-9234-IC is an entity measuring 200 cm in height. It possesses a humanoid appearance and is completely dark in coloration, with the exception of 2 white glowing eyes.
+Photographic or video documentation of SCP-9234-IC has proven impossible to obtain.
 
-<strong><u>Behavior:</u></strong>\
-When SCP-9234-IC Appears, he normally does it near a door or closet of a room. Only one person may be awake during the event. If the person sees SCP-9234-IC, two possible outcomes will occur:
+<strong><u>Behavior:</u></strong>
+SCP-9234-IC typically manifests near a door or closet within a room. Only one person may be conscious during a manifestation event. When an individual observes SCP-9234-IC, one of two outcomes will occur:
 
-1. A sense of extreme fear or Hostility to the individual.
+1. SCP-9234-IC displays extreme hostility toward the individual.
 
-2. A sense of Curiosity and positivity.
+2. SCP-9234-IC remains neutral.
 
-If the person reacts negatively, SCP-9234-IC will lunge at them and tear them apart. SCP-9234-IC will then disappear after 5 minutes.\
-If the person reacts positively with SCP-9234-IC, then SCP-9234-IC will stay in the same position and stare at the person for 10 minutes before vanishing.\
-Subject display an intense feeling of Tiredness after the encounter.\
-All encounters, where SCP-9234-IC encounters children, have been met with SCP-9234-IC reacting the same way as people positively reacting to him no matter if the child is scared or not.
+If the individual exhibits hostile behavior, SCP-9234-IC will rush toward them and tear them apart. SCP-9234-IC will then dematerialize after approximately 5 minutes.
+If the individual remains passive or neutral, SCP-9234-IC will maintain its position and stare at the person for 10 minutes before dematerializing.
+Individuals report intense fatigue following encounters with SCP-9234-IC.
+In all encounters involving children, SCP-9234-IC responds in the same manner as with individuals who maintain neutral behavior, regardless of whether the child displays fear.
 
-<strong><u>Incident Report SCP-9234-IC-1:</u></strong>\
-D-█████ was tasked with Trying to trigger SCP-9234-IC by hostile behavior. Results have been recorded and is only accessable via the consent of the 05 Council.
+<strong><u>Incident Report SCP-9234-IC-1:</u></strong>
+D-█████ was instructed to provoke SCP-9234-IC through hostile behavior. Results have been documented and are accessible only with O5 Council approval.
+
+<strong><u>Addendum 1:</u></strong>
+SCP-9234-IC was first observed on ██/██/████ in ██████, ████-███████. Containment was established on ██/██/████. Area-██ was constructed specifically for this purpose. SCP-9234-IC was initially classified as Euclid. Localization procedures were performed twice daily with at least two summonings per week.
+
+<strong><u>Addendum 2:</u></strong>
+SCP-9234-IC breached containment on ██/██/████. It was subsequently located in ██████, ████-███████. Re-containment was achieved on ██/██/████.
+SCP-9234-IC terminated ███ civilians during this period. Following this breach, containment protocols were revised to include twice-hourly localization checks and a minimum of three summonings per week.
+SCP-9234-IC's classification was elevated to Keter.
