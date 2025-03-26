@@ -67,6 +67,24 @@
             overflow: hidden;
         }
 
+        ::-webkit-scrollbar {
+            display: none;
+        }
+
+        body {
+            -ms-overflow-style: none;
+            scrollbar-width: none;
+        }
+
+        #main_content::-webkit-scrollbar {
+            display: none;
+        }
+
+        #main_content {
+            -ms-overflow-style: none;
+            scrollbar-width: none;
+        }
+
         #main_content {
             flex: 1;
             overflow-y: auto;
@@ -75,13 +93,13 @@
         /* header {
             width: 100%;
             flex-shrink: 0;
-        }
+        } */
 
         #main_content {
             flex: 1;
             overflow-y: auto;
             height: 100%;
-        } */
+        }
     </style>
 </head>
 {% seo %}
